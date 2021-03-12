@@ -1,5 +1,5 @@
 const Modal = () => {
-	return <div></div>;
+	return <div class="fixed inset-0 mx-auto">Modal</div>;
 };
 
 export default Modal;
