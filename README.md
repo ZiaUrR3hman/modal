@@ -1,6 +1,6 @@
-# sidebar
+# modal
 
-[demo](https://ziaurr3hman.github.io/sidebar/)
+[demo](https://ziaurr3hman.github.io/modal/)
 
 ## :information_source: Requirements
 
@@ -11,9 +11,9 @@
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/ZiaUrR3hman/sidebar.git
+$ git clone https://github.com/ZiaUrR3hman/modal.git
 # Access this repo
-$ cd sidebar
+$ cd modal
 # Install dependencies
 $ npm install
 # Run the application
