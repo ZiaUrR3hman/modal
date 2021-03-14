@@ -8,7 +8,7 @@ const Home = () => {
 				<div className="flex items-center justify-center h-screen ">
 					<button
 						onClick={openModal}
-						className="bg-indigo-500 hover:bg-indigo-600 active:bg-indigo-700 focus:outline-none focus:ring focus:ring-offset-2 px-4 py-2 text-white font-semibold text-lg tracking-wider uppercase rounded-sm"
+						className="bg-red-500 hover:bg-red-600 active:bg-red-700 focus:outline-none focus:ring focus:ring-offset-2 focus:ring-red-500 px-4 py-2 text-white font-semibold text-md tracking-wider uppercase rounded-md"
 					>
 						Deactivate
 					</button>
